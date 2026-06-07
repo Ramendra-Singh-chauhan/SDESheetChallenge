@@ -25,7 +25,7 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 
 | Metric | Progress | Status |
 |---------|----------|---------|
-| 📅 Days Completed | **6 / 45** | 🟡 In Progress |
+| 📅 Days Completed | **7 / 45** | 🟡 In Progress |
 | 🚀 Problems Solved | **16 / 191** | 🟡 Making Progress |
 | 🛠️ Primary Language | **Java ☕** | ✅ Configured |
 | 🎯 Challenge Completion | **13%** | 🔥 Ongoing |
@@ -105,7 +105,7 @@ Platform    : LeetCode / GFG
 
 ```text
 Day Progress       ███░░░░░░░░░░░░░░░░ 6/45
-Problems Solved    ██░░░░░░░░░░░░░░░░░ 18/191
+Problems Solved    ██░░░░░░░░░░░░░░░░░ 16/191
 ```
 
 ---
