@@ -26,7 +26,7 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 | Metric | Progress | Status |
 |---------|----------|---------|
 | 📅 Days Completed | **6 / 45** | 🟡 In Progress |
-| 🚀 Problems Solved | **18 / 191** | 🟡 Making Progress |
+| 🚀 Problems Solved | **16 / 191** | 🟡 Making Progress |
 | 🛠️ Primary Language | **Java ☕** | ✅ Configured |
 | 🎯 Challenge Completion | **13%** | 🔥 Ongoing |
 
@@ -54,9 +54,9 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 
 ```text
 Language    : Java ☕
-IDE         : VS Code
+IDE         : IntelliJ
 Version Ctrl: Git & GitHub
-Platform    : LeetCode / Coding Ninjas / GFG
+Platform    : LeetCode / GFG
 ```
 
 ---
@@ -82,9 +82,9 @@ Problems Solved    ██░░░░░░░░░░░░░░░░░ 18/
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: Your LinkedIn Profile
+- 💼 LinkedIn: https://www.linkedin.com/in/ramendra-singh-chauhan-672227279/
 - 🐦 Twitter/X: Your X Profile
-- 📧 Email: your-email@example.com
+- 📧 Email: ramendrasinghchouhan870@gmail.com
 
 ---
 
