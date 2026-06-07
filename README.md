@@ -1,4 +1,3 @@
-README
 🏆 Striver's 45-Day SDE Sheet Challenge
 This repository tracks my daily progress during the 45-Day SDE Sheet Challenge organized by takeUforward (Striver). The goal is to solve all interview-essential DSA problems consistently, learn in public, and build an interview-ready portfolio.
 
