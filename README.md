@@ -58,7 +58,21 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 ### 🗓️ Day 4: Arrays II (Part B)
 - [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution File](./path-to-your-java-file)
 - [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
+- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)### 🗓️ Day ### 🗓️ Day 5: Arrays I (Part B)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution File](./path-to-your-java-file)
+- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution File](./path-to-your-java-file)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution File](./path-to-your-java-file)
+
+### 🗓️ Day 6: Arrays II (Part A)
+- [x] [Rotate Image (Matrix by 90°)](https://leetcode.com/problems/rotate-image/) | [Solution File](./path-to-your-java-file)
+- [x] [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/) | [Solution File](./path-to-your-java-file)
+- [x] [Merge Sorted Array Without Extra Space](https://leetcode.com/problems/merge-sorted-array/) | [Solution File](./path-to-your-java-file)
+
+### 🗓️ Day 7: Arrays II (Part B)
+- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File]()
+- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
 - [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
+
 
 </details>
 
