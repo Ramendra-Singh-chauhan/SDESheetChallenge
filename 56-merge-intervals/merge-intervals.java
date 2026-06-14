@@ -3,23 +3,26 @@ import java.util.*;
 class Solution {
     public int[][] merge(int[][] intervals) {
 
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
 
-        List<int[]> merged = new ArrayList<>();
+        List<int[]> ans = new ArrayList<>();
 
-        for (int[] interval : intervals) {
+        int start = intervals[0][0];
+        int end = intervals[0][1];
 
-            if (merged.isEmpty() ||
-                merged.get(merged.size() - 1)[1] < interval[0]) {
+        for (int i = 1; i < intervals.length; i++) {
 
-                merged.add(new int[]{interval[0], interval[1]});
+            if (intervals[i][0] <= end) {
+                end = Math.max(end, intervals[i][1]);
             } else {
-
-                merged.get(merged.size() - 1)[1] =
-                    Math.max(merged.get(merged.size() - 1)[1], interval[1]);
+                ans.add(new int[]{start, end});
+                start = intervals[i][0];
+                end = intervals[i][1];
             }
         }
 
-        return merged.toArray(new int[merged.size()][]);
+        ans.add(new int[]{start, end});
+
+        return ans.toArray(new int[ans.size()][]);
     }
 }
