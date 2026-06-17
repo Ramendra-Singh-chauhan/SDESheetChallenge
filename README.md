@@ -59,8 +59,8 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 - [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/287-find-the-duplicate-number)
 - [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/Difficulty%3A%20Easy/Missing%20And%20Repeating)
 - [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/Difficulty%3A%20Medium/Count%20Inversions)
-   
-###🗓️ Day 5: Arrays I (Part B)
+
+### 🗓️ Day 5: Arrays II (Part B)
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution File](./path-to-your-java-file)
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution File](./path-to-your-java-file)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution File](./path-to-your-java-file)
