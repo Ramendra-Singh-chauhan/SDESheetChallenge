@@ -18,7 +18,7 @@ class Solution {
 
 
     // Better Approach:-
-        Set<List<Integer>> ans = new HashSet<>();
+        Set<List<Integer>> set = new HashSet<>();
         for(int i = 0 ; i<nums.length ; i++){
             Set<Integer> hashset = new HashSet<>();
             for(int j = i+1 ; j<nums.length ; j++){
@@ -26,11 +26,13 @@ class Solution {
                 if(hashset.contains(third)){
                      List<Integer> temp = Arrays.asList(nums[i], nums[j], third);
                      Collections.sort(temp);
-                     ans.add(temp);
+                     set.add(temp);
                 }
                 hashset.add(nums[j]);
             }
         }
-    return new ArrayList<>(ans);
+        List<List<Integer>> ans = new ArrayList<>(set);
+
+    return ans;
     }
 }
