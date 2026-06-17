@@ -73,6 +73,44 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 - [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
 - [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
 
+<summary>📂 <b>Week 1</b></summary>
+### 🗓️ Day 8: Arrays II (Part B)
+- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
+- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
+- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
+
+### 🗓️ Day 9: Arrays II (Part B)
+- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
+- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
+- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
+
+### 🗓️ Day 10: Arrays II (Part B)
+- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
+- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
+- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
+
+### 🗓️ Day 11: Arrays II (Part B)
+- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
+- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
+- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
+
+### 🗓️ Day 12: Arrays II (Part B)
+- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
+- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
+- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
+
+### 🗓️ Day 13: Arrays II (Part B)
+- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
+- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
+- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
+
+### 🗓️ Day 14: Arrays II (Part B)
+- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
+- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
+- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
+
+
+
 
 </details>
 
