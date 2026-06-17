@@ -73,43 +73,6 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 - [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
 - [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
 
-<summary>📂 <b>Week 1</b></summary>
-### 🗓️ Day 8: Arrays II (Part B)
-- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
-- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
-- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
-
-### 🗓️ Day 9: Arrays II (Part B)
-- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
-- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
-- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
-
-### 🗓️ Day 10: Arrays II (Part B)
-- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
-- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
-- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
-
-### 🗓️ Day 11: Arrays II (Part B)
-- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
-- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
-- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
-
-### 🗓️ Day 12: Arrays II (Part B)
-- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
-- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
-- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
-
-### 🗓️ Day 13: Arrays II (Part B)
-- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
-- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
-- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
-
-### 🗓️ Day 14: Arrays II (Part B)
-- [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
-- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
-- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
-
-
 
 
 </details>
@@ -117,6 +80,50 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 </details>
 
 ---
+
+<details>
+<summary><b>▶ Week 2 Progress</b></summary>
+
+<details>
+<summary>📂 <b>Week 2</b></summary>
+
+### 🗓️ Day 8: Linked List I
+- [ ] Reverse Linked List
+- [ ] Find Middle of Linked List
+- [ ] Merge Two Sorted Lists
+
+### 🗓️ Day 9: Linked List I
+- [ ] Remove Nth Node From End
+- [ ] Delete Node in Linked List
+- [ ] Add Two Numbers
+
+### 🗓️ Day 10: Linked List II
+- [ ] Intersection of Two Linked Lists
+- [ ] Detect Cycle in Linked List
+- [ ] Palindrome Linked List
+
+### 🗓️ Day 11: Linked List II
+- [ ] Reverse Nodes in K Group
+- [ ] Copy List with Random Pointer
+- [ ] Flatten Linked List
+
+### 🗓️ Day 12
+- [ ] Reverse Nodes in K Group
+- [ ] Copy List with Random Pointer
+- [ ] Flatten Linked List
+
+### 🗓️ Day 13
+- [ ] Reverse Nodes in K Group
+- [ ] Copy List with Random Pointer
+- [ ] Flatten Linked List
+
+### 🗓️ Day 14
+- [ ] Reverse Nodes in K Group
+- [ ] Copy List with Random Pointer
+- [ ] Flatten Linked List
+
+</details>
+</details>
 
 ## 🛠️ Tech Stack
 
