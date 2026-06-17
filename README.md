@@ -41,24 +41,26 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 <summary>📂 <b>Week 1</b></summary>
 
 ### 🗓️ Day 1: Arrays I (Part A)
-- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution File](./path-to-your-java-file)
-- [x] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution File](./path-to-your-java-file)
-- [x] [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution File](./path-to-your-java-file)
+- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/Day-07/73-set-matrix-zeroes)
+- [x] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/Day-07/118-pascals-triangle)
+- [x] [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/Day-07/31-next-permutation)
 
 ### 🗓️ Day 2: Arrays I (Part B)
-- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution File](./path-to-your-java-file)
-- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution File](./path-to-your-java-file)
-- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution File](./path-to-your-java-file)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/53-maximum-subarray)
+- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/75-sort-colors)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/121-best-time-to-buy-and-sell-stock)
 
 ### 🗓️ Day 3: Arrays II (Part A)
-- [x] [Rotate Image (Matrix by 90°)](https://leetcode.com/problems/rotate-image/) | [Solution File](./path-to-your-java-file)
-- [x] [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/) | [Solution File](./path-to-your-java-file)
-- [x] [Merge Sorted Array Without Extra Space](https://leetcode.com/problems/merge-sorted-array/) | [Solution File](./path-to-your-java-file)
+- [x] [Rotate Image (Matrix by 90°)](https://leetcode.com/problems/rotate-image/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/48-rotate-image)
+- [x] [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/56-merge-intervals)
+- [x] [Merge Sorted Array Without Extra Space](https://leetcode.com/problems/merge-sorted-array/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/88-merge-sorted-array)
 
 ### 🗓️ Day 4: Arrays II (Part B)
-- [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution File](./path-to-your-java-file)
-- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
-- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)### 🗓️ Day ### 🗓️ Day 5: Arrays I (Part B)
+- [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/287-find-the-duplicate-number)
+- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/Difficulty%3A%20Easy/Missing%20And%20Repeating)
+- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/Difficulty%3A%20Medium/Count%20Inversions)
+   
+###🗓️ Day 5: Arrays I (Part B)
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution File](./path-to-your-java-file)
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution File](./path-to-your-java-file)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution File](./path-to-your-java-file)
@@ -82,7 +84,7 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 ---
 
 <details>
-<summary><b>▶ Week 2 Progress</b></summary>
+<summary><b>Week 2 Progress</b></summary>
 
 <details>
 <summary>📂 <b>Week 2</b></summary>
