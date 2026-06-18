@@ -4,7 +4,7 @@ class Solution {
     public int trap(int[] height) {
         int n = height.length;
         // Brute Force Approach:-
-        int totalwater = 0;
+        // int totalwater = 0;
         // for(int i = 0 ; i<n ; i++){
         //     int rightmax = 0;
         //     int leftmax = 0;
@@ -28,25 +28,48 @@ class Solution {
         // }
         // return totalwater;
 
-        // better Approach
-         int prefixmax [] = new int [n];
-         int suffixmax [] = new int [n];
+        // better Approach:-
+
+        //  int prefixmax [] = new int [n];
+        //  int suffixmax [] = new int [n];
          
-         prefixmax[0] = height[0];
-         for(int i = 1 ; i<n ;i++){
-            prefixmax[i] = Math.max(prefixmax[i-1], height[i]);
-         }
+        //  prefixmax[0] = height[0];
+        //  for(int i = 1 ; i<n ;i++){
+        //     prefixmax[i] = Math.max(prefixmax[i-1], height[i]);
+        //  }
 
-         suffixmax[n-1] = height[n-1];
-         for(int i = n-2 ; i>=0 ;i--){
-            suffixmax[i] = Math.max(suffixmax[i+1], height[i]);
-         }
+        //  suffixmax[n-1] = height[n-1];
+        //  for(int i = n-2 ; i>=0 ;i--){
+        //     suffixmax[i] = Math.max(suffixmax[i+1], height[i]);
+        //  }
 
-         for(int i = 0 ; i<n ; i++){
-            if(height[i]<prefixmax[i] && height[i]<suffixmax[i]){
-                totalwater += Math.min(prefixmax[i] , suffixmax[i]) - height[i]; 
-            }
-         }
+        //  for(int i = 0 ; i<n ; i++){
+        //     if(height[i]<prefixmax[i] && height[i]<suffixmax[i]){
+        //         totalwater += Math.min(prefixmax[i] , suffixmax[i]) - height[i]; 
+        //     }
+        //  }
+        // return totalwater;
+
+        // Optimal Approach:-
+
+        int totalwater = 0;
+        int left = 0;
+        int right = n-1;
+        int leftmax = 0;
+        int rightmax = 0;
+        while(left < right){
+             leftmax = Math.max(leftmax , height[left]);
+             rightmax = Math.max(rightmax , height[right]);
+
+             if(leftmax<rightmax){
+                totalwater += (leftmax-height[left]);
+                left++;
+             }
+             else{
+                totalwater += (rightmax-height[right]);
+                right--;
+             }
+        }
         return totalwater;
     }
 }
