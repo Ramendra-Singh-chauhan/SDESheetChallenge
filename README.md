@@ -90,39 +90,39 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 <summary>📂 <b>Week 2</b></summary>
 
 ### 🗓️ Day 8: Linked List I
-- [ ] [Largest Subarray with K Sum]()
-- [ ] [Count Subarrays with Given XOR K]()
-- [ ] [Longest Substring Without Repeating Characters]()
+- [ ] [Longest Subarray with K Sum](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/Difficulty%3A%20Medium/Longest%20Subarray%20with%20Sum%20K/longest-subarray-with-sum-k.java)
+- [ ] [Count Subarrays with Given XOR K](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/Difficulty%3A%20Medium/Count%20Subarrays%20with%20given%20XOR/count-subarrays-with-given-xor.java)
+- [ ] [Longest Substring Without Repeating Characters]() |
 
 ### 🗓️ Day 9: Linked List I
-- [ ] [Reverse a Linked List]()
-- [ ] [Find Middle of Linked List]()
-- [ ] [Merge Two Sorted Lists]()
+- [ ] [Reverse a Linked List]() |
+- [ ] [Find Middle of Linked List]() |
+- [ ] [Merge Two Sorted Lists]() |
 
 ### 🗓️ Day 10: Linked List II
-- [ ] [Remove Nth Node From End of List]()
-- [ ] [Add Two Numbers]()
-- [ ] [Delete Node in a Linked List]()
+- [ ] [Remove Nth Node From End of List]() |
+- [ ] [Add Two Numbers]() |
+- [ ] [Delete Node in a Linked List]() |
 
 ### 🗓️ Day 11: Linked List II
-- [ ] [Intersection of Two Linked Lists]()
-- [ ] [Linked List Cycle]()
-- [ ] [Reverse Nodes in k-Group]()
+- [ ] [Intersection of Two Linked Lists]() |
+- [ ] [Linked List Cycle]() |
+- [ ] [Reverse Nodes in k-Group]() |
 
 ### 🗓️ Day 12
-- [ ] [Palindrome Linked List]()
-- [ ] [Linked List Cycle II]()
-- [ ] [Flattening a Linked List]()
+- [ ] [Palindrome Linked List]() |
+- [ ] [Linked List Cycle II]() |
+- [ ] [Flattening a Linked List]() |
 
 ### 🗓️ Day 13
-- [ ] [Rotate List]()
-- [ ] [Copy List with Random Pointer]()
-- [ ] [3Sum]()
+- [ ] [Rotate List]() |
+- [ ] [Copy List with Random Pointer]() |
+- [ ] [3Sum]() |
 
 ### 🗓️ Day 14
-- [ ] [Trapping Rain Water]()
-- [ ] [Remove Duplicates from Sorted Array]()
-- [ ] [Max Consecutive Ones]()
+- [ ] [Trapping Rain Water]() |
+- [ ] [Remove Duplicates from Sorted Array]() |
+- [ ] [Max Consecutive Ones]() |
 </details>
 </details>
 
