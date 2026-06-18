@@ -61,19 +61,19 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 - [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/tree/main/Difficulty%3A%20Medium/Count%20Inversions)
 
 ### 🗓️ Day 5: Arrays II (Part B)
-- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution File](./path-to-your-java-file)
-- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution File](./path-to-your-java-file)
-- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution File](./path-to-your-java-file)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/53-maximum-subarray/maximum-subarray.java)
+- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/75-sort-colors/sort-colors.java)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java)
 
 ### 🗓️ Day 6: Arrays II (Part A)
-- [x] [Rotate Image (Matrix by 90°)](https://leetcode.com/problems/rotate-image/) | [Solution File](./path-to-your-java-file)
-- [x] [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/) | [Solution File](./path-to-your-java-file)
-- [x] [Merge Sorted Array Without Extra Space](https://leetcode.com/problems/merge-sorted-array/) | [Solution File](./path-to-your-java-file)
+- [x] [Rotate Image (Matrix by 90°)](https://leetcode.com/problems/rotate-image/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/48-rotate-image/rotate-image.java)
+- [x] [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/56-merge-intervals/merge-intervals.java)
+- [x] [Merge Sorted Array Without Extra Space](https://leetcode.com/problems/merge-sorted-array/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/88-merge-sorted-array/merge-sorted-array.java)
 
 ### 🗓️ Day 7: Arrays II (Part B)
 - [x] [2-Sum](https://leetcode.com/problems/4sum/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/5a04f27dcf2204652292a6b2dab1c5f8d16df38d)
-- [x] [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution File](./path-to-your-java-file)
-- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./path-to-your-java-file)
+- [x] [4-sum](https://leetcode.com/problems/4sum/description/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/18-4sum/4sum.java)
+- [x] [Longest Consecutive Sequence in an Array](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/128-longest-consecutive-sequence/longest-consecutive-sequence.java)
 
 
 
@@ -90,40 +90,39 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 <summary>📂 <b>Week 2</b></summary>
 
 ### 🗓️ Day 8: Linked List I
-- [ ] Reverse Linked List
-- [ ] Find Middle of Linked List
-- [ ] Merge Two Sorted Lists
+- [ ] [Largest Subarray with K Sum]()
+- [ ] [Count Subarrays with Given XOR K]()
+- [ ] [Longest Substring Without Repeating Characters]()
 
 ### 🗓️ Day 9: Linked List I
-- [ ] Remove Nth Node From End
-- [ ] Delete Node in Linked List
-- [ ] Add Two Numbers
+- [ ] [Reverse a Linked List]()
+- [ ] [Find Middle of Linked List]()
+- [ ] [Merge Two Sorted Lists]()
 
 ### 🗓️ Day 10: Linked List II
-- [ ] Intersection of Two Linked Lists
-- [ ] Detect Cycle in Linked List
-- [ ] Palindrome Linked List
+- [ ] [Remove Nth Node From End of List]()
+- [ ] [Add Two Numbers]()
+- [ ] [Delete Node in a Linked List]()
 
 ### 🗓️ Day 11: Linked List II
-- [ ] Reverse Nodes in K Group
-- [ ] Copy List with Random Pointer
-- [ ] Flatten Linked List
+- [ ] [Intersection of Two Linked Lists]()
+- [ ] [Linked List Cycle]()
+- [ ] [Reverse Nodes in k-Group]()
 
 ### 🗓️ Day 12
-- [ ] Reverse Nodes in K Group
-- [ ] Copy List with Random Pointer
-- [ ] Flatten Linked List
+- [ ] [Palindrome Linked List]()
+- [ ] [Linked List Cycle II]()
+- [ ] [Flattening a Linked List]()
 
 ### 🗓️ Day 13
-- [ ] Reverse Nodes in K Group
-- [ ] Copy List with Random Pointer
-- [ ] Flatten Linked List
+- [ ] [Rotate List]()
+- [ ] [Copy List with Random Pointer]()
+- [ ] [3Sum]()
 
 ### 🗓️ Day 14
-- [ ] Reverse Nodes in K Group
-- [ ] Copy List with Random Pointer
-- [ ] Flatten Linked List
-
+- [ ] [Trapping Rain Water]()
+- [ ] [Remove Duplicates from Sorted Array]()
+- [ ] [Max Consecutive Ones]()
 </details>
 </details>
 
