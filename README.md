@@ -95,24 +95,24 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 - [ ] [Longest Substring Without Repeating Characters]() |
 
 ### 🗓️ Day 9: Linked List I
-- [ ] [Reverse a Linked List]() |
-- [ ] [Find Middle of Linked List]() |
-- [ ] [Merge Two Sorted Lists]() |
+- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/206-reverse-linked-list/reverse-linked-list.java)
+- [ ] [Find Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/908-middle-of-the-linked-list/middle-of-the-linked-list.java)
+- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution File] (https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/commit/9bd855e3f3e8dc14fff45a3aaeaea7ca3c0e2d64)
 
 ### 🗓️ Day 10: Linked List II
-- [ ] [Remove Nth Node From End of List]() |
-- [ ] [Add Two Numbers]() |
-- [ ] [Delete Node in a Linked List]() |
+- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java)
+- [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/2-add-two-numbers/add-two-numbers.java)
+- [ ] [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/editorial/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.java)
 
 ### 🗓️ Day 11: Linked List II
-- [ ] [Intersection of Two Linked Lists]() |
-- [ ] [Linked List Cycle]() |
-- [ ] [Reverse Nodes in k-Group]() |
+- [ ] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.java)
+- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/141-linked-list-cycle/linked-list-cycle.java)
+- [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/25-reverse-nodes-in-k-group/reverse-nodes-in-k-group.java)
 
 ### 🗓️ Day 12
-- [ ] [Palindrome Linked List]() |
-- [ ] [Linked List Cycle II]() |
-- [ ] [Flattening a Linked List]() |
+- [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/234-palindrome-linked-list/palindrome-linked-list.java)
+- [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution File](https://github.com/Ramendra-Singh-chauhan/SDESheetChallenge/blob/main/142-linked-list-cycle-ii/linked-list-cycle-ii.java)
+- [ ] [Flattening a Linked List]() | [Solution File]()
 
 ### 🗓️ Day 13
 - [ ] [Rotate List]() |
