@@ -12,11 +12,11 @@ class Solution {
             findcombination(index + 1 , target-candidates[index] , candidates , ans , curr);
             curr.remove(curr.size()-1);
         }
+
         int idx = index+1;
         while(idx<candidates.length && candidates[idx]==candidates[idx-1]){
             idx++;
         }
-       
             findcombination(idx  , target , candidates , ans , curr);
 
     }
