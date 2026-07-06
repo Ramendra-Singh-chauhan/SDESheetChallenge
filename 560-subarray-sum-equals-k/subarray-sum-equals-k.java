@@ -26,6 +26,6 @@ class Solution {
             if(map.containsKey(value)) count=count+map.get(value);
             map.put(prefixSum[i], map.getOrDefault(prefixSum[i],0)+1);
         }
-        return count++;
+        return count;
     }
 }
