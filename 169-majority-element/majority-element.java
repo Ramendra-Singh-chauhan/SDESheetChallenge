@@ -11,7 +11,7 @@ class Solution {
             }   
             if(count>(nums.length/2)) {
                 ans=nums[i];
-                return nums[i];     
+                return ans;     
             }
         }
         return ans;
