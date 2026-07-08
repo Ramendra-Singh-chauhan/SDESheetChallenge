@@ -2,19 +2,19 @@ class Solution {
     public int majorityElement(int[] nums) {
         // BruteForce Approach:-
 
-        // int maxCount = 0;
-        // int ans = 0;
-        // for(int i = 0 ; i<nums.length ; i++){
-        //     int count = 0;
-        //     for(int j = i ; j<nums.length ; j++){
-        //        if(nums[i]==nums[j]) count++;
-        //     }   
-        //     if(count>(nums.length/2)) {
-        //         ans=nums[i];
-        //         return nums[i];     
-        //     }
-        // }
-        // return ans;
+        int maxCount = 0;
+        int ans = 0;
+        for(int i = 0 ; i<nums.length ; i++){
+            int count = 0;
+            for(int j = i ; j<nums.length ; j++){
+               if(nums[i]==nums[j]) count++;
+            }   
+            if(count>(nums.length/2)) {
+                ans=nums[i];
+                return nums[i];     
+            }
+        }
+        return ans;
 
         // Better Approach:-
 
@@ -34,17 +34,17 @@ class Solution {
 
         // Optimal approach(moore voating algo)
 
-        int freq = 0;
-        int ans = 0;
-        for(int i = 0 ; i<nums.length ; i++){
-            if(freq==0){
-                ans=nums[i];
-            }
-            if(ans==nums[i]) freq++;
-            else{
-                freq--;
-            }
-        }
-        return ans;
+        // int freq = 0;
+        // int ans = 0;
+        // for(int i = 0 ; i<nums.length ; i++){
+        //     if(freq==0){
+        //         ans=nums[i];
+        //     }
+        //     if(ans==nums[i]) freq++;
+        //     else{
+        //         freq--;
+        //     }
+        // }
+        // return ans;
     }
 }
