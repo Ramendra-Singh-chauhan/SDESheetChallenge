@@ -18,8 +18,7 @@ class Solution {
 
         // better
         if(s.length()!=goal.length()) return false;
-        String str = s+s;
-        if(str.contains(goal)) return true;
+        if((s+s).contains(goal)) return true;
         return false;
     }
 }
