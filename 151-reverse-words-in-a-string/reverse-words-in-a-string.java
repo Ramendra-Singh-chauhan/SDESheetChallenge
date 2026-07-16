@@ -3,12 +3,24 @@ class Solution {
         String[] arr = s.trim().split("\\s+");
         StringBuilder sb = new StringBuilder();
 
-        for(int i = arr.length-1 ; i>=0 ; i--){
-            if(arr[i].length()>0){
-                sb.append(arr[i]);
-                sb.append(" ");
-            }
+
+        // brute force 
+        String[] brr = new String[arr.length];
+        int left = 0;
+        int right = arr.length-1;
+        while(right>=0){
+            brr[left]=arr[right];
+            left++;
+            right--;
         }
-        return sb.substring(0, sb.length() - 1).toString();
+        return String.join(" ",brr);
+
+        // for(int i = arr.length-1 ; i>=0 ; i--){
+        //     if(arr[i].length()>0){
+        //         sb.append(arr[i]);
+        //         sb.append(" ");
+        //     }
+        // }
+        // return sb.substring(0, sb.length() - 1).toString();
     }
 }
