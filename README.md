@@ -25,10 +25,10 @@ The goal is to solve interview-focused DSA problems consistently, strengthen pro
 
 | Metric | Progress | Status |
 |---------|----------|---------|
-| 📅 Days Completed | **14 / 45** | 🟡 In Progress |
-| 🚀 Problems Solved | **42 / 191** | 🟡 Making Progress |
+| 📅 Days Completed | **40 / 45** | 🟡 In Progress |
+| 🚀 Problems Solved | **105 / 191** | 🟡 Making Progress |
 | 🛠️ Primary Language | **Java ☕** | ✅ Configured |
-| 🎯 Challenge Completion | **13%** | 🔥 Ongoing |
+| 🎯 Challenge Completion | **54%** | 🔥 Ongoing |
 
 ---
 
