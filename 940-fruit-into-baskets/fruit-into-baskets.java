@@ -19,32 +19,25 @@ class Solution {
         // better approach
         
         Map<Integer, Integer> basket = new HashMap<>();
-
-        // Initialize pointers and max result
         int left = 0;
+        int right = 0;
         int maxFruits = 0;
 
-        // Traverse the fruits array using right pointer
-        for (int right = 0; right < fruits.length; right++) {
-            // Include current fruit in the map
+        while (right < fruits.length) {
             basket.put(fruits[right], basket.getOrDefault(fruits[right], 0) + 1);
 
-            // If more than 2 fruit types, shrink window from left
             while (basket.size() > 2) {
                 basket.put(fruits[left], basket.get(fruits[left]) - 1);
 
                 if (basket.get(fruits[left]) == 0) {
                     basket.remove(fruits[left]);
                 }
-
                 left++;
             }
-
-            // Update maximum valid window length
             maxFruits = Math.max(maxFruits, right - left + 1);
+            right++;
         }
 
-        // Return the final result
         return maxFruits;
-}
+    }
 }
