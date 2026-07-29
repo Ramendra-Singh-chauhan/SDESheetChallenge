@@ -19,9 +19,6 @@ class Solution {
                     continue;
                 }
             }
-
-
-
             if(ch>='0' && ch<='9'){
                 int digit = ch - '0';
                 ans = ans * 10 + digit;
